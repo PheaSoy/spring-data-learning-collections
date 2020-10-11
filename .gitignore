@@ -28,6 +28,11 @@ target/
 build/
 
 ### VS Code ###
-.vscode/spring-data-mongodb/target
-spring-data-mongodb/HELP.md
-spring-data-mongodb/spring-data-mongodb.iml
+**/target
+**/HELP.md
+**/.iml
+**/target/
+**/!.mvn/wrapper/maven-wrapper.jar
+**/.classpath
+
+
